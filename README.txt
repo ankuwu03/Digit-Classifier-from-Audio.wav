@@ -1,3 +1,5 @@
+###created by Ankur Kumar
+
 This CNN model aims to classify audio files (.wav format) of digits 0-9.
 
 It is a pre-loaded model with a few sample inputs (10) to test it on, as the complete dataset was too big to upload.
